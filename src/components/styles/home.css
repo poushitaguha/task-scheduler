@@ -1,0 +1,19 @@
+.text-section h1 {
+  padding-top: 20vw;
+  text-align: center;
+  width: 80%;
+  margin: 0 auto;
+  font-size: 3em;
+}
+
+.schedule-section {
+  display: flex;
+  justify-content: center;
+}
+
+.scheduleBtn {
+  width: 20%;
+  margin-top: 0.2em;
+  color: #ffffff;
+  background-color: #4abfbf;
+}
